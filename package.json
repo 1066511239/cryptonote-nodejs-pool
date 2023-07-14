@@ -14,7 +14,7 @@
 		"bignum": "*",
 		"bufferutil": "*",
 		"cli-color": "*",
-		"cryptoforknote-util": "git+https://github.com/1066511239/node-cryptoforknote-util.git",
+		"cryptoforknote-util": "git+https://github.com/Xmonero/node-cryptoforknote-util.git",
 		"cryptonight-hashing": "git+https://github.com/1066511239/node-cryptonight-hashing.git",
 		"dateformat": "4.5.1",
 		"domexception": "*",
